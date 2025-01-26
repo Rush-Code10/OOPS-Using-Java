@@ -1,0 +1,36 @@
+1. Write a Java program to define a class LibraryBook with attributes such as title, author, and price. 
+Accept input for these attributes from the user and include a method displayDetails() to print the details.
+
+2. Create a class named Eligible that has data members as number of classes held and attended, as well as methods: 
+input() and compute(). The input() accepts the data from user and compute() calculates the percentage and verifies 
+that a student having 80% or more than displays a message as “ student permitted to appear in the exam” otherwise 
+“student not permitted to appear in the exam”. Create an instance of a class that invokes the both the methods.
+
+3. Write a Java program to create a class called Account with instance variables accountNumber and balance. 
+Implement a parameterized constructor that initializes these variables with validation:
+•	accountNumber should be non-null and non-empty.
+•	balance should be non-negative.
+•	Print an error message if the validation fails.
+
+4. WAP to compute the area of the room by illustrating the concept of constructor overloading where the length and 
+breadth of the room passed as parameter through constructor which are same in one constructor and different in 
+another constructor. Further use a method that computes the area of the room.
+
+5. Design a Java program that utilizes method overloading to create a calculator capable of performing 
+arithmetic operations.
+
+6. A computer science professor written the java code as created a class called “MyClass” with a method named 
+“myMethod” that is overloaded with four different visibility modifiers: public, private, protected and default 
+(package-private). Demonstrate the above concept with method overloading under various visibility modifiers. 
+
+7. Develop a Java program to define a class Student with attributes including name, rollNumber, and marks for 
+three subjects. Take user input for these attributes, and implement two methods: average() to calculate the average 
+of the marks, and printInfo() to display the student's details in a formatted manner.
+
+8. Write a Java program to create a class called Dog with instance variables name and color. Implement a 
+parameterized constructor that takes name and color as parameters and initializes the instance variables. 
+Print the values of the variables.
+
+9. WAP to create a class named as Bird which consist the three constructor: first constructor displays the name 
+of the bird with no-arguments. Second constructor takes the name of the bird as a parameter and third constructor 
+takes both name and age of the bird as a parameter. Create three instances of class and display the names of the bird. 

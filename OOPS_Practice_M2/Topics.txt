@@ -1,0 +1,28 @@
+Practical 4
+
+1. Packages(with public, private, protected)
+2. String Buffer
+    a. append(String s)
+    b. insert(int offset, String s)
+    c. replace(int startIndex, int endIndex, String str)
+    d. delete(int startIndex, int endIndex)
+    e. reverse()
+    f. capacity()
+    g. ensureCapacity(int minimumCapacity)
+    h. charAt(int index)
+    i. length()
+    j. substring(int beginIndex)
+    k. substring(int beginIndex, int endIndex)
+
+Practical 5
+
+Inheritance
+    a. Single Level
+    b. Multilevel
+    c. Hierarchial
+
+Practical 6
+
+Inheritance
+    a. Multiple
+    b. Hybrid
